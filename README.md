@@ -12,7 +12,8 @@ LazyRow/LazyColumn for compose.
 
 ![Preview](https://user-images.githubusercontent.com/15170090/197389318-b3925b65-aed9-4e1f-a778-ba73007cbdf7.png)
 
-## Features
+## Features  
+
 
 - [x] Single, multiple or range selection - Total flexibility to implement the date selection
   whichever way you like.
